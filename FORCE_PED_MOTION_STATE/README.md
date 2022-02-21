@@ -1,3 +1,6 @@
+<h2>FORCE_PED_MOTION_STATE</h2>
+
+```
 enum eMotionState
 {
 	MotionState_None = 4000413475,
@@ -84,3 +87,4 @@ enum eMotionState
 	_0x3FC0B3BE = 25465920,
 	_0xDAB33BE2 = 1926482157,
 };
+```

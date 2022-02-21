@@ -1,3 +1,6 @@
+<h2>PED::_0x947E43F544B6AB34</h2>
+
+```
 enum _0x62A8CB86
 {
 	_0x8D163385 = 0,
@@ -71,3 +74,4 @@ enum _0x62A8CB86
 	ReactedToBlocked = 68,
 	CalmedByPlayer = 69,
 };
+```

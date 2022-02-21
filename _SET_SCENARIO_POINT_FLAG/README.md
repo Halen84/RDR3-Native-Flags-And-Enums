@@ -1,5 +1,6 @@
 Native Hash: 0x5AF19B6CC2115D34
 
+```
 enum CScenarioPointFlags__Flags
 {
 	_0x27B31061 = 0,
@@ -67,3 +68,4 @@ enum CScenarioPointFlags__Flags
 	_0x9030FA20 = 62,
 	_0x7C44D036 = 63,
 };
+```

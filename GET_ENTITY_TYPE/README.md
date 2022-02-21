@@ -1,3 +1,6 @@
+<h2>GET_ENTITY_TYPE</h2>
+
+```
 enum eEntityType // Guessed Name
 {
 	ET_NONE,
@@ -6,3 +9,4 @@ enum eEntityType // Guessed Name
 	ET_OBJECT,
 	ET_DUMMY_OBJECT // Unused
 };
+```

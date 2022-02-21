@@ -1,3 +1,4 @@
+```
 enum eFleeStyle
 {
 	NervousRetreat = 0,
@@ -14,3 +15,4 @@ enum eFleeStyle
 	StolenVehicleRetreat = 11,
 	CautiousRetreat = 12,
 };
+```

@@ -1,3 +1,6 @@
+<h2>SET_PLAYER_CONTROL</h2>
+
+```
 SPC_NONE = 0,
 ??? = 4, = // Clear Tasks?
 SPC_REMOVE_FIRES = 8,
@@ -6,3 +9,4 @@ SPC_REMOVE_PROJECTILES = 32,
 ??? = 256, // Leave Camera
 SPC_PREVENT_EVERYBODY_BACKOFF = 2048,
 4480 = ???,
+```

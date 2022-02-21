@@ -1,5 +1,6 @@
 Native Hash: 0x560E76D5E2E1803F
 
+```
 enum eUIPromptAttribute
 {
 	_0x0DA48938 = 0, // Grays out prompt
@@ -48,3 +49,4 @@ enum eUIPromptAttribute
 	_0x21B74C10 = 43,
 	_0xE9889A59 = 44,
 };
+```
