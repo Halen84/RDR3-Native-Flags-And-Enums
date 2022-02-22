@@ -5,7 +5,7 @@ enum ePromptPriority
 {
 	PP_Low = 0,
 	PP_Normal = 1,
-	PP_High = 10,
-	PP_MissionCritical = 50,
+	PP_High = 2,
+	PP_MissionCritical = 3,
 };
 ```
