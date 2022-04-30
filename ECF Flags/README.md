@@ -1,4 +1,6 @@
-<h2>TASK_DISMOUNT_ANIMAL</h2>
+<h2>ECF Flags</h2>
+
+Guessed enum names: eExitConfigFlag, eExitTransportConfigFlag, eEntryPointConfigFlag
 
 ```
 ECF_ALLOW_JACK_PLAYER_PED_ONLY = -2147483648,
