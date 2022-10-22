@@ -8,7 +8,7 @@ enum _0x62A8CB86
 	NearlyShotByPlayer = 2,
 	_0x23F2657A = 3,
 	ShotByPlayer = 4,
-	_0xAC1AA8DC = 5,
+	ShotAtPlayer = 5,
 	SpokeToPlayer = 6,
 	SpokenToByPlayer = 7,
 	SawPlayerActingWeird = 8,
