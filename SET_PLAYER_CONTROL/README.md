@@ -2,11 +2,11 @@
 
 ```
 SPC_NONE = 0,
-??? = 4, = // Clear Tasks?
+_SPC_UNK1 = 4, = // Clear Tasks?
 SPC_REMOVE_FIRES = 8,
 SPC_REMOVE_EXPLOSIONS = 16,
 SPC_REMOVE_PROJECTILES = 32,
-??? = 256, // Leave Camera
+_SPC_UNK2 = 256, // Leave Camera
 SPC_PREVENT_EVERYBODY_BACKOFF = 2048,
-??? = 4480,
+_SPC_UNK3 = 4480,
 ```

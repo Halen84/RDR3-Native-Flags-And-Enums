@@ -1,9 +1,8 @@
 <h2>ECF Flags</h2>
 
-Guessed enum names: eExitConfigFlag, eExitTransportConfigFlag, eEntryPointConfigFlag
+Guessed enum names: eExitConfigFlag, eExitTransportConfigFlag
 
 ```
-ECF_ALLOW_JACK_PLAYER_PED_ONLY = -2147483648,
 ECF_NONE = 0,
 ECF_RESUME_IF_INTERRUPTED = (1 << 0),
 ECF_WARP_ENTRY_POINT = (1 << 1),
@@ -31,5 +30,6 @@ ECF_EXIT_SEAT_ON_TO_VEHICLE = (1 << 26),
 ECF_ALLOW_SCRIPTED_TASK_ABORT = (1 << 27),
 ECF_WILL_SHOOT_AT_TARGET_PEDS = (1 << 28),
 ECF_INTERRUPT_ALWAYS = (1 << 29),
-ECF_IGNORE_ENTRY_FROM_CLOSEST_POINT = (1 << 30)
+ECF_IGNORE_ENTRY_FROM_CLOSEST_POINT = (1 << 30),
+ECF_ALLOW_JACK_PLAYER_PED_ONLY = (1 << 31),
 ```
