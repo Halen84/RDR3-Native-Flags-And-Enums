@@ -1,6 +1,6 @@
 <h2>ADD_SCENARIO_BLOCKING_AREA</h2>
 
-Note: SBF_BLOCK_PEDS and SBF_DEFAULT are not real flags, but instead precalculated bitwise OR flags
+Note: `SBF_BLOCK_PEDS` and `SBF_DEFAULT` are not real flags, but instead bitwise OR flags
 ```
 SBF_CANCEL_ACTIVE = 1,
 SBF_BLOCK_PLAYER = 2,
