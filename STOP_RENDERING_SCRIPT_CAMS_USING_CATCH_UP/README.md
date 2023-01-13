@@ -1,5 +1,8 @@
-<h2>STOP_RENDERING_SCRIPT_CAMS_USING_CATCH_UP</h2>
-
+## Natives that use this enum
+```
+CAM::STOP_RENDERING_SCRIPT_CAMS_USING_CATCH_UP (0x8C7C7FF7CF0E5153)
+```
+## Enum
 ```
 enum eBlendBackSmoothing
 {

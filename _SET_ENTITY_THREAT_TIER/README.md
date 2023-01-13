@@ -1,11 +1,15 @@
-Native Hash: 0x4B436BAC8CBE9B07
-
+## Natives that use this enum
 ```
-enum eEntityThreatTier // Guessed name
+ENTITY::_SET_ENTITY_THREAT_TIER (0x4B436BAC8CBE9B07)
+ENITTY::_GET_ENTITY_THREAT_TIER (0xE12F56CB25D9CE23)
+```
+## Enum
+```
+enum eEntityThreatTier
 {
-	THREAT_NONE = -1, // Guessed
+	THREAT_NONE = -1,
 	THREAT_LOW,
 	THREAT_MED,
-	THREAT_HIGH // Guessed
+	THREAT_HIGH
 };
 ```

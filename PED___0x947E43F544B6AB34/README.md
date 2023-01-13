@@ -1,5 +1,8 @@
-<h2>PED::_0x947E43F544B6AB34</h2>
-
+## Natives that use this enum
+```
+PED::_0x947E43F544B6AB34
+```
+## Enum
 ```
 enum _0x62A8CB86
 {
@@ -14,7 +17,7 @@ enum _0x62A8CB86
 	SawPlayerActingWeird = 8,
 	ScriptedSpeechWithPlayer = 9,
 	BumpedByPlayer = 10,
-	_0x6B9CB8B9 = 11,
+	BumpedByPlayerVehicle = 11,
 	BlockGreetsByPlayer = 12,
 	WasInMeleeFightWithPlayer = 13,
 	MinorPlayerOffense = 14,

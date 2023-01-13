@@ -1,5 +1,9 @@
-<h2>FORCE_PED_MOTION_STATE</h2>
-
+## Natives that use this enum
+```
+PED::FORCE_PED_MOTION_STATE		(0xF28965D04F570DCA)
+TASK::TASK_FORCE_MOTION_STATE 	(0x4F056E1AFFEF17AB)
+```
+## Enum
 ```
 enum _0x92A659FE
 {
@@ -78,7 +82,7 @@ enum _0x92A659FE
 	MotionState_StealthCrouch_Run = 802868116,
 	MotionState_StealthCrouch_RunStop = 1863875406,
 	MotionState_InCover = 202215844,
-	_0x13C3816B = 1398696542,
+	MotionState_Jetpack = 1398696542,
 	MotionState_Flying = 2994988260,
 	_0xBE5B7E0F = 3744976664,
 	_0x930FDD2D = 2882129524,

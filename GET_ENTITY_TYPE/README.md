@@ -1,12 +1,14 @@
-<h2>GET_ENTITY_TYPE</h2>
-
+## Natives that use this enum
 ```
-enum eEntityType // Guessed Name
+ENTITY::GET_ENTITY_TYPE (0x97F696ACA466B4E0)
+```
+## Enum
+```
+enum eEntityType
 {
 	ET_NONE,
 	ET_PED,
 	ET_VEHICLE,
 	ET_OBJECT,
-	ET_DUMMY_OBJECT // Unused
 };
 ```

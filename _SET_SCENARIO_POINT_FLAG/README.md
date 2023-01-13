@@ -1,5 +1,9 @@
-Native Hash: 0x5AF19B6CC2115D34
-
+## Natives that use this enum
+```
+TASK::_SET_SCENARIO_POINT_FLAG		(0x5AF19B6CC2115D34)
+TASK::_IS_SCENARIO_POINT_FLAG_SET	(0x8569C38D2FB80650)
+```
+## Enum
 ```
 enum CScenarioPointFlags__Flags
 {

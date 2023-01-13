@@ -1,16 +1,19 @@
-Native Hash: 0x560E76D5E2E1803F
-
+## Natives that use this enum
+```
+HUD::_UI_PROMPT_SET_ATTRIBUTE (0x560E76D5E2E1803F)
+```
+## Enum
 ```
 enum eUIPromptAttribute
 {
-	kPromptAttrib_0x0DA48938 = 0,
-	kPromptAttrib_0x41020794 = 1,
-	kPromptAttrib_0x7B8BBC61 = 2,
+	kPromptAttrib_Enabled = 0,
+	kPromptAttrib_Scripted = 1,
+	kPromptAttrib_Frontend = 2,
 	kPromptAttrib_InGame = 3,
 	kPromptAttrib_Menu = 4,
 	kPromptAttrib_CustomDraw = 5,
 	kPromptAttrib_StyleProgress = 6,
-	kPromptAttrib_0xE68D7BA7 = 7,
+	kPromptAttrib_StyleIsPressed = 7,
 	kPromptAttrib_StyleMash = 8,
 	kPromptAttrib_ExclusiveInput = 9,
 	kPromptAttrib_0x9AACD7D3 = 10,

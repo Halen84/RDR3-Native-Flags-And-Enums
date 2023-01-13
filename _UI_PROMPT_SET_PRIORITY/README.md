@@ -1,5 +1,8 @@
-Native Hash: 0xCA24F528D0D16289
-
+## Natives that use this enum
+```
+HUD::_UI_PROMPT_SET_PRIORITY (0xCA24F528D0D16289)
+```
+## Enum
 ```
 enum ePromptPriority
 {

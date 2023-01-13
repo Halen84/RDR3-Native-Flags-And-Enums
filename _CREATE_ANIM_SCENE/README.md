@@ -1,7 +1,10 @@
-Native Hash: 0x1FCA98E33C1437B3
-
+## Natives that use this enum
 ```
-enum eAnimSceneFlag // Guessed name
+ANIMSCENE::_CREATE_ANIM_SCENE (0x1FCA98E33C1437B3)
+```
+## Enum
+```
+enum eAnimSceneFlag
 {
 	ASF_NONE = 0,
 	ASF_LOOPING = (1 << 0),

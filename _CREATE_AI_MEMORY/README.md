@@ -1,5 +1,8 @@
-Native Hash: 0x88BC5F4AEF77FC4E
-
+## Natives that use this enum
+```
+MISC::_CREATE_AI_MEMORY (0x88BC5F4AEF77FC4E)
+```
+## Enum
 ```
 enum _0x6449EEE7
 {
