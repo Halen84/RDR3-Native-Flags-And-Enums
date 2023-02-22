@@ -3,7 +3,7 @@
 LAW::_SET_PED_LAW_BEHAVIOUR (0x819ADD5EF1742F47)
 ```
 ## Enum
-```
+```cpp
 enum CLawBehavior__Flags
 {
 	IsLaw = 0,

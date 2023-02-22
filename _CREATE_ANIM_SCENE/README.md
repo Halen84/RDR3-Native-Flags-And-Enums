@@ -3,7 +3,7 @@
 ANIMSCENE::_CREATE_ANIM_SCENE (0x1FCA98E33C1437B3)
 ```
 ## Enum
-```
+```cpp
 enum eAnimSceneFlag
 {
 	ASF_NONE = 0,

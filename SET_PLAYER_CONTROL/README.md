@@ -3,7 +3,7 @@
 PLAYER::SET_PLAYER_CONTROL (0x4D51E59243281D80)
 ```
 ## Enum
-```
+```cpp
 enum eSetPlayerControlFlags
 {
 	SPC_NONE = 0,

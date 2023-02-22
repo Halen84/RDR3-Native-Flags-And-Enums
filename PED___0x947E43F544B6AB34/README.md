@@ -1,9 +1,9 @@
 ## Natives that use this enum
 ```
-PED::_0x947E43F544B6AB34
+PED::_0x947E43F544B6AB34 (0x947E43F544B6AB34)
 ```
 ## Enum
-```
+```cpp
 enum _0x62A8CB86
 {
 	_0x8D163385 = 0,

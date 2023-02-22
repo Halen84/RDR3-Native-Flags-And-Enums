@@ -3,7 +3,7 @@
 HUD::_UI_PROMPT_SET_ATTRIBUTE (0x560E76D5E2E1803F)
 ```
 ## Enum
-```
+```cpp
 enum eUIPromptAttribute
 {
 	kPromptAttrib_Enabled = 0,

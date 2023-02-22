@@ -8,7 +8,7 @@ TASK::_TASK_FLEE_FROM_COORD (0x6879FF208ED87F2A)
 TASK::_TASK_FLEE_FROM_PED (0x7B74D8EEDE9B5727)
 ```
 ## Enum
-```
+```cpp
 enum eFleeStyle
 {
 	NervousRetreat = 0,

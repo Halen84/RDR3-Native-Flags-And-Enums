@@ -3,7 +3,7 @@
 CAM::STOP_RENDERING_SCRIPT_CAMS_USING_CATCH_UP (0x8C7C7FF7CF0E5153)
 ```
 ## Enum
-```
+```cpp
 enum eBlendBackSmoothing
 {
 	CAM_SPLINE_NO_SMOOTH = 0,
