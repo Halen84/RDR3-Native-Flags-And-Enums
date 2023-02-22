@@ -76,14 +76,14 @@ enum ePromptType
 	PP_EMOTE_TWIRL_GUN_VAR_D,
 	PP_SURRENDER_BREAK_OUT,
 	PP_EMOTE_DANCE_FLOOR
-}
+};
 
 ```
-```
+```cpp
 enum ePromptMode
 {
 	PP_MODE_BLOCK = 0,
 	PP_MODE_HIDE,
 	PP_MODE_GREY_OUT
-}
+};
 ```

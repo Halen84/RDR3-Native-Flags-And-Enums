@@ -40,5 +40,5 @@ enum eEnterExitVehicleFlags
 	ECF_INTERRUPT_ALWAYS = (1 << 29),
 	ECF_IGNORE_ENTRY_FROM_CLOSEST_POINT = (1 << 30),
 	ECF_ALLOW_JACK_PLAYER_PED_ONLY = (1 << 31),
-}
+};
 ```
