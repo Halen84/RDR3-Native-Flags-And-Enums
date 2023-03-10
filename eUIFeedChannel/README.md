@@ -20,7 +20,7 @@ enum eUIFeedChannel
 	kFeedChannel_MissionName = 9,
 	kFeedChannel_ReticleMessage = 10,
 	kFeedChannel_Shards = 11,
-	kFeedChannel_0xCC70B92B = 12,
+	kFeedChannel_ScoretimerMessage = 12,
 	kFeedChannel_VoiceChat = 13,
 	kFeedChannel_Count = 14,
 };
