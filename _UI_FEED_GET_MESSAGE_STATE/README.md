@@ -1,0 +1,18 @@
+## Natives that use this enum
+```
+UIFEED::_UI_FEED_GET_MESSAGE_STATE (0x59FA676177DBE4C9)
+```
+## Enum
+```cpp
+enum eUIMessageState
+{
+	kMessageState_Initializing = 0,
+	kMessageState_InQueue = 1,
+	kMessageState_WaitingToShow = 2,
+	kMessageState_Entering = 3,
+	kMessageState_Showing = 4,
+	kMessageState_Exiting = 5,
+	kMessageState_Complete = 6,
+	kMessageState_Count = 7,
+};
+```
