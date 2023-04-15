@@ -38,7 +38,7 @@ enum CCarryingFlags__Flags
 	_0xBDBF542C = 28,
 	BlockKnockOffPedVariationsFromCarriableInteractions = 29,
 	_0xD732DC6E = 30,
-	_0x71F6E100 = 31, // CARRYING_FLAG_HIT_WHEN_CARRIABLE
+	CanBeHitWhenCarriable = 31,
 	_0x0995A131 = 32,
 	_0x3067588E = 33,
 	DisableCarriableInteractionsOnThisMount = 34,
