@@ -1,8 +1,8 @@
 ## Natives that use this enum
-```
-PED::SET_PED_RESET_FLAG (0xC1E8A365BF3B29F2)
-PED::GET_PED_RESET_FLAG (0xAF9E59B1B1FBF2A0)
-```
+| Name                       | Hash               |
+|----------------------------|--------------------|
+| PED::SET\_PED\_RESET\_FLAG | 0xC1E8A365BF3B29F2 |
+| PED::GET\_PED\_RESET\_FLAG | 0xAF9E59B1B1FBF2A0 |
 ## Enum
 ```cpp
 enum ePedScriptResetFlags

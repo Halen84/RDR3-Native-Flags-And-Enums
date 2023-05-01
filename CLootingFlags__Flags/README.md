@@ -1,8 +1,8 @@
 ## Natives that use this enum
-```
-PED::SET_LOOTING_FLAG (0x6569F31A01B4C097)
-PED::_GET_LOOTING_FLAG (0xE4C11F104620DDCE)
-```
+| Name                      | Hash               |
+|---------------------------|--------------------|
+| PED::SET\_LOOTING\_FLAG   | 0x6569F31A01B4C097 |
+| PED::\_GET\_LOOTING\_FLAG | 0xE4C11F104620DDCE |
 ## Enum
 ```cpp
 enum CLootingFlags__Flags

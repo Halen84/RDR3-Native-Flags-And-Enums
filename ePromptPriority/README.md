@@ -1,7 +1,7 @@
 ## Natives that use this enum
-```
-HUD::_UI_PROMPT_SET_PRIORITY (0xCA24F528D0D16289)
-```
+| Name                               | Hash               |
+|------------------------------------|--------------------|
+| HUD::\_UI\_PROMPT\_SET\_PRIORITY   | 0xCA24F528D0D16289 |
 ## Enum
 ```cpp
 enum ePromptPriority

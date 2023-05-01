@@ -1,7 +1,7 @@
 ## Natives that use this enum
-```
-HUD::_UI_PROMPT_SET_ATTRIBUTE (0x560E76D5E2E1803F)
-```
+| Name                                                  | Hash               |
+|-------------------------------------------------------|--------------------|
+| HUD::\_UI\_PROMPT\_SET\_ATTRIBUTE                     | 0x560E76D5E2E1803F |
 ## Enum
 ```cpp
 enum eUIPromptAttribute

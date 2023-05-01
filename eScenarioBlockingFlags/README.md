@@ -1,8 +1,8 @@
 ## Natives that use this enum
-```
-PED::ADD_SCENARIO_BLOCKING_AREA (0x1B5C85C612E5256E)
-PED::_ADD_SCENARIO_BLOCKING_VOLUME (0x4C39C95AE5DB1329)
-```
+| Name                                   | Hash               |
+|----------------------------------------|--------------------|
+| PED::ADD\_SCENARIO\_BLOCKING\_AREA     | 0x1B5C85C612E5256E |
+| PED::\_ADD\_SCENARIO\_BLOCKING\_VOLUME | 0x4C39C95AE5DB1329 |
 ## Enum
 ```cpp
 enum eScenarioBlockingFlags

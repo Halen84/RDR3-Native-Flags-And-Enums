@@ -1,9 +1,9 @@
 ## Natives that use this enum
-```
-OBJECT::CREATE_PICKUP (0xFBA08C503DD5FA58)
-OBJECT::CREATE_PICKUP_ROTATE (0x891804727E0A98B7)
-OBJECT::CREATE_AMBIENT_PICKUP (0x673966A0C0FD7171)
-```
+| Name                            | Hash               |
+|---------------------------------|--------------------|
+| OBJECT::CREATE\_PICKUP          | 0xFBA08C503DD5FA58 |
+| OBJECT::CREATE\_PICKUP\_ROTATE  | 0x891804727E0A98B7 |
+| OBJECT::CREATE\_AMBIENT\_PICKUP | 0x673966A0C0FD7171 |
 ## Enum
 ```cpp
 enum ePlacementFlag

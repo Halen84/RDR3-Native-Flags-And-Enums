@@ -1,8 +1,8 @@
 ## Natives that use this enum
-```
-PED::FORCE_PED_MOTION_STATE (0xF28965D04F570DCA)
-TASK::TASK_FORCE_MOTION_STATE (0x4F056E1AFFEF17AB)
-```
+| Name                             | Hash               |
+|----------------------------------|--------------------|
+| PED::FORCE\_PED\_MOTION\_STATE   | 0xF28965D04F570DCA |
+| TASK::TASK\_FORCE\_MOTION\_STATE | 0x4F056E1AFFEF17AB |
 ## Enum
 ```cpp
 enum _0x92A659FE

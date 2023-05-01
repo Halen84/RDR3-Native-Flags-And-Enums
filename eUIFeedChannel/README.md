@@ -1,8 +1,8 @@
 ## Natives that use this enum
-```
-UIFEED::UI_FEED_CLEAR_CHANNEL (0xDD1232B332CBB9E7)
-UIFEED::UI_FEED_GET_CURRENT_MESSAGE (0xC17F69E1418CD11F)
-```
+| Name                                    | Hash               |
+|-----------------------------------------|--------------------|
+| UIFEED::UI\_FEED\_CLEAR\_CHANNEL        | 0xDD1232B332CBB9E7 |
+| UIFEED::UI\_FEED\_GET\_CURRENT\_MESSAGE | 0xC17F69E1418CD11F |
 ## Enum
 ```cpp
 enum eUIFeedChannel

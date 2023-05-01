@@ -1,8 +1,8 @@
 ## Natives that use this enum
-```
-PLAYER::_SET_PLAYER_RESET_FLAG (0x9F9A829C6751F3C7)
-PLAYER::_GET_PLAYER_RESET_FLAG (0xFE691E89C08937B6)
-```
+| Name                               | Hash               |
+|------------------------------------|--------------------|
+| PLAYER::\_SET\_PLAYER\_RESET\_FLAG | 0x9F9A829C6751F3C7 |
+| PLAYER::\_GET\_PLAYER\_RESET\_FLAG | 0xFE691E89C08937B6 |
 ## Enum
 ```cpp
 enum ePlayerResetFlags

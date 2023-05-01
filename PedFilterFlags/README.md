@@ -1,8 +1,8 @@
 ## Natives that use this enum
-```
-POPULATION::_ADD_AMBIENT_AVOIDANCE_RESTRICTION (0xB56D41A694E42E86)
-POPULATION::_ADD_AMBIENT_SPAWN_RESTRICTION (0x18262CAFEBB5FBE1)
-```
+| Name                                               | Hash               |
+|----------------------------------------------------|--------------------|
+| POPULATION::\_ADD\_AMBIENT\_AVOIDANCE\_RESTRICTION | 0xB56D41A694E42E86 |
+| POPULATION::\_ADD\_AMBIENT\_SPAWN\_RESTRICTION     | 0x18262CAFEBB5FBE1 |
 ## Enum
 ```cpp
 enum PedFilterFlags

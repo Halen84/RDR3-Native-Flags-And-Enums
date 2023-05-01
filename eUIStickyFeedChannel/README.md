@@ -1,7 +1,7 @@
 ## Natives that use this enum
-```
-UISTICKYFEED::_UI_STICKY_FEED_IS_CHANNEL_ACTIVE (0xC5C395C60B542A3C)
-```
+| Name                                                  | Hash               |
+|-------------------------------------------------------|--------------------|
+| UISTICKYFEED::\_UI\_STICKY\_FEED\_IS\_CHANNEL\_ACTIVE | 0xC5C395C60B542A3C |
 ## Enum
 ```cpp
 enum eUIStickyFeedChannel

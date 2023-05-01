@@ -1,10 +1,10 @@
 ## Natives that use these enums
-```
-PLAYER::_MODIFY_PLAYER_UI_PROMPT (0x0751D461F06E41CE)
-PLAYER::_MODIFY_PLAYER_UI_PROMPT_FOR_PED (0xA3DB37EDF9A74635)
-PLAYER::_GET_PLAYER_UI_PROMPT_IS_DISABLED (0x6614F9039BD31931)
-PLAYER::_GET_PLAYER_UI_PROMPT_FOR_PED_IS_ENABLED (0xEA8F168A76A0B9BC)
-```
+| Name                                                     | Hash               |
+|----------------------------------------------------------|--------------------|
+| PLAYER::\_MODIFY\_PLAYER\_UI\_PROMPT                     | 0x0751D461F06E41CE |
+| PLAYER::\_MODIFY\_PLAYER\_UI\_PROMPT\_FOR\_PED           | 0xA3DB37EDF9A74635 |
+| PLAYER::\_GET\_PLAYER\_UI\_PROMPT\_IS\_DISABLED          | 0x6614F9039BD31931 |
+| PLAYER::\_GET\_PLAYER\_UI\_PROMPT\_FOR\_PED\_IS\_ENABLED | 0xEA8F168A76A0B9BC |
 ## Enums
 ```cpp
 enum ePromptType

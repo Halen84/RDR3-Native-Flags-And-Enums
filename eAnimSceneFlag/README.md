@@ -1,7 +1,7 @@
 ## Natives that use this enum
-```
-ANIMSCENE::_CREATE_ANIM_SCENE (0x1FCA98E33C1437B3)
-```
+| Name                                       | Hash               |
+|--------------------------------------------|--------------------|
+| ANIMSCENE::\_CREATE\_ANIM\_SCENE           | 0x1FCA98E33C1437B3 |
 ## Enum
 ```cpp
 enum eAnimSceneFlag

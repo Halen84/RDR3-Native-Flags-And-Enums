@@ -1,7 +1,7 @@
 ## Natives that use this enum
-```
-PLAYER::SET_PLAYER_CONTROL (0x4D51E59243281D80)
-```
+| Name                             | Hash               |
+|----------------------------------|--------------------|
+| PLAYER::SET\_PLAYER\_CONTROL     | 0x4D51E59243281D80 |
 ## Enum
 ```cpp
 enum eSetPlayerControlFlags

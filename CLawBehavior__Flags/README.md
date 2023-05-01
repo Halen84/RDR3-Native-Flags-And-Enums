@@ -1,7 +1,7 @@
 ## Natives that use this enum
-```
-LAW::_SET_PED_LAW_BEHAVIOUR (0x819ADD5EF1742F47)
-```
+| Name                                  | Hash               |
+|---------------------------------------|--------------------|
+| LAW::\_SET\_PED\_LAW\_BEHAVIOUR       | 0x819ADD5EF1742F47 |
 ## Enum
 ```cpp
 enum CLawBehavior__Flags

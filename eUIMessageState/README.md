@@ -1,8 +1,8 @@
 ## Natives that use this enum
-```
-UIFEED::_UI_FEED_GET_MESSAGE_STATE (0x59FA676177DBE4C9)
-UISTICKYFEED::_UI_STICKY_FEED_GET_MESSAGE_STATE (0x07954320D77F6A3D)
-```
+| Name                                                  | Hash               |
+|-------------------------------------------------------|--------------------|
+| UIFEED::\_UI\_FEED\_GET\_MESSAGE\_STATE               | 0x59FA676177DBE4C9 |
+| UISTICKYFEED::\_UI\_STICKY\_FEED\_GET\_MESSAGE\_STATE | 0x07954320D77F6A3D |
 ## Enum
 ```cpp
 enum eUIMessageState

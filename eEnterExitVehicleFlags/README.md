@@ -1,12 +1,12 @@
 ## Natives that use this enum
-```
-TASK::TASK_ENTER_VEHICLE (0xC20E50AA46D09CA8)
-TASK::TASK_LEAVE_VEHICLE (0xD3DBCE61A490BE02)
-TASK::TASK_LEAVE_ANY_VEHICLE (0x504D54DF3F6F2247)
-TASK::TASK_MOUNT_ANIMAL (0x92DB0739813C5186)
-TASK::TASK_DISMOUNT_ANIMAL (0x48E92D3DDE23C23A)
-TASK::TASK_DISEMBARK_NEAREST_TRAIN_CARRIAGE (0x0A11F3BDEC03ED5F)
-```
+| Name                                            | Hash               |
+|-------------------------------------------------|--------------------|
+| TASK::TASK\_ENTER\_VEHICLE                      | 0xC20E50AA46D09CA8 |
+| TASK::TASK\_LEAVE\_VEHICLE                      | 0xD3DBCE61A490BE02 |
+| TASK::TASK\_LEAVE\_ANY\_VEHICLE                 | 0x504D54DF3F6F2247 |
+| TASK::TASK\_MOUNT\_ANIMAL                       | 0x92DB0739813C5186 |
+| TASK::TASK\_DISMOUNT\_ANIMAL                    | 0x48E92D3DDE23C23A |
+| TASK::TASK\_DISEMBARK\_NEAREST\_TRAIN\_CARRIAGE | 0x0A11F3BDEC03ED5F |
 ## Enum
 ```cpp
 enum eEnterExitVehicleFlags

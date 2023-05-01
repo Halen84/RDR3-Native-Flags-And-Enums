@@ -1,9 +1,9 @@
 ## Natives that use this enum
-```
-FLOCK::GET_ANIMAL_TUNING_BOOL_PARAM (0x1C1993824A396603)
-FLOCK::SET_ANIMAL_TUNING_BOOL_PARAM (0x9FF1E042FA597187)
-FLOCK::RESET_ANIMAL_TUNING_BOOL_PARAM (0x96AA1304D30E6BC3)
-```
+| Name                                      | Hash               |
+|-------------------------------------------|--------------------|
+| FLOCK::GET\_ANIMAL\_TUNING\_BOOL\_PARAM   | 0x1C1993824A396603 |
+| FLOCK::SET\_ANIMAL\_TUNING\_BOOL\_PARAM   | 0x9FF1E042FA597187 |
+| FLOCK::RESET\_ANIMAL\_TUNING\_BOOL\_PARAM | 0x96AA1304D30E6BC3 |
 ## Enum
 ```cpp
 enum _0x6316D090

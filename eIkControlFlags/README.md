@@ -1,8 +1,8 @@
 ## Natives that use this enum
-```
-TASK::TASK_PLAY_ANIM (0xEA47FE3719165B94)
-TASK::TASK_PLAY_ANIM_ADVANCED (0x83CDB10EA29B370B)
-```
+| Name                             | Hash               |
+|----------------------------------|--------------------|
+| TASK::TASK\_PLAY\_ANIM           | 0xEA47FE3719165B94 |
+| TASK::TASK\_PLAY\_ANIM\_ADVANCED | 0x83CDB10EA29B370B |
 ## Enum
 ```cpp
 enum eIkControlFlags

@@ -1,8 +1,8 @@
 ## Natives that use this enum
-```
-ENTITY::_GET_ENTITY_CARRYING_FLAG (0x808077647856DE62)
-ENTITY::_SET_ENTITY_CARRYING_FLAG (0x18FF3110CF47115D)
-```
+| Name                                  | Hash               |
+|---------------------------------------|--------------------|
+| ENTITY::\_GET\_ENTITY\_CARRYING\_FLAG | 0x808077647856DE62 |
+| ENTITY::\_SET\_ENTITY\_CARRYING\_FLAG | 0x18FF3110CF47115D |
 ## Enum
 ```cpp
 enum CCarryingFlags__Flags

@@ -1,8 +1,8 @@
 ## Natives that use this enum
-```
-PED::_GET_PED_LASSO_HOGTIE_FLAG (0x2C76FA0E01681F8D)
-PED::SET_PED_LASSO_HOGTIE_FLAG (0xAE6004120C18DF97)
-```
+| Name                                 | Hash               |
+|--------------------------------------|--------------------|
+| PED::\_GET\_PED\_LASSO\_HOGTIE\_FLAG | 0x2C76FA0E01681F8D |
+| PED::SET\_PED\_LASSO\_HOGTIE\_FLAG   | 0xAE6004120C18DF97 |
 ## Enum
 ```cpp
 enum _0xF19CDAEF

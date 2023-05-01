@@ -1,8 +1,8 @@
 ## Natives that use this enum
-```
-ENTITY::_SET_ENTITY_THREAT_TIER (0x4B436BAC8CBE9B07)
-ENITTY::_GET_ENTITY_THREAT_TIER (0xE12F56CB25D9CE23)
-```
+| Name                                            | Hash               |
+|-------------------------------------------------|--------------------|
+| ENTITY::\_SET\_ENTITY\_THREAT\_TIER             | 0x4B436BAC8CBE9B07 |
+| ENITTY::\_GET\_ENTITY\_THREAT\_TIER             | 0xE12F56CB25D9CE23 |
 ## Enum
 ```cpp
 enum eEntityThreatTier

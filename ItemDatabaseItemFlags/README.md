@@ -1,7 +1,7 @@
 ## Natives that use this enum
-```
-INVENTORY::_INVENTORY_IS_INVENTORY_ITEM_FLAG_ENABLED (0x245D07651B1D183B)
-```
+| Name                                                       | Hash               |
+|------------------------------------------------------------|--------------------|
+| INVENTORY::\_INVENTORY\_IS\_INVENTORY\_ITEM\_FLAG\_ENABLED | 0x245D07651B1D183B |
 ## Enum
 ```cpp
 enum ItemDatabaseItemFlags

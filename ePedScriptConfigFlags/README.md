@@ -1,8 +1,8 @@
 ## Natives that use this enum
-```
-PED::SET_PED_CONFIG_FLAG (0x1913FE4CBF41C463)
-PED::GET_PED_CONFIG_FLAG (0x7EE53118C892B513)
-```
+| Name                        | Hash               |
+|-----------------------------|--------------------|
+| PED::SET\_PED\_CONFIG\_FLAG | 0x1913FE4CBF41C463 |
+| PED::GET\_PED\_CONFIG\_FLAG | 0x7EE53118C892B513 |
 ## Enum
 ```cpp
 enum ePedScriptConfigFlags

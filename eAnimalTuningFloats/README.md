@@ -1,9 +1,9 @@
 ## Natives that use this enum
-```
-FLOCK::GET_ANIMAL_TUNING_FLOAT_PARAM (0x4BC3ECFDA0297E27)
-FLOCK::SET_ANIMAL_TUNING_FLOAT_PARAM (0xCBDA22C87977244F)
-FLOCK::RESET_ANIMAL_TUNING_FLOAT_PARAM (0xE776A195488FC520)
-```
+| Name                                       | Hash               |
+|--------------------------------------------|--------------------|
+| FLOCK::GET\_ANIMAL\_TUNING\_FLOAT\_PARAM   | 0x4BC3ECFDA0297E27 |
+| FLOCK::SET\_ANIMAL\_TUNING\_FLOAT\_PARAM   | 0xCBDA22C87977244F |
+| FLOCK::RESET\_ANIMAL\_TUNING\_FLOAT\_PARAM | 0xE776A195488FC520 |
 ## Enum
 ```cpp
 enum eAnimalTuningFloats // "struct CAnimalTuningFloats"

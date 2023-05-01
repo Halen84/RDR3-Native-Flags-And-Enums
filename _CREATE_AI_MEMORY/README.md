@@ -1,7 +1,7 @@
 ## Natives that use this enum
-```
-MISC::_CREATE_AI_MEMORY (0x88BC5F4AEF77FC4E)
-```
+| Name                       | Hash               |
+|----------------------------|--------------------|
+| MISC::\_CREATE\_AI\_MEMORY | 0x88BC5F4AEF77FC4E |
 ## Enum
 ```cpp
 enum _0x6449EEE7
