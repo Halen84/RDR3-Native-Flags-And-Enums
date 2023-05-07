@@ -449,7 +449,7 @@ enum ePedScriptConfigFlags
 	PCF_0x8519377E = 439,
 	PCF_0xDBD31C9C = 440,
 	PCF_0xB61CE793 = 441,
-	PCF_0x78525B66 = 442,
+	_PCF_DisableHorseFleeILO = 442, // PCF_0x78525B66
 	PCF_0x9F42C50C = 443,
 	PCF_0x16A14D9A = 444,
 	PCF_DisableDoorBarge = 445,
@@ -572,7 +572,7 @@ enum ePedScriptConfigFlags
 	PCF_0x74064B79 = 562,
 	PCF_0x3090EC16 = 563,
 	PCF_0x12300BC5 = 564,
-	PCF_0x5445D29D = 565,
+	PCF_IsValidForVehicleSeatStow = 565,
 	PCF_EnableSpecialActionBranches = 566,
 	PCF_DisableHorseShunting = 567,
 	PCF_0xCF2BF977 = 568,
