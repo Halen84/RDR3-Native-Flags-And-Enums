@@ -445,9 +445,9 @@ enum ePedScriptConfigFlags
 	PCF_AlwaysRejectPlayerRobberyAttempt = 435,
 	PCF_0x553A6EF0 = 436,
 	PCF_DisableWeatherConditionPerceptionChecks = 437,
-	PCF_0x14013CF9 = 438,
-	PCF_0x8519377E = 439,
-	PCF_0xDBD31C9C = 440,
+	_PCF_SetHorseFleeCommandDisabled = 438, // PCF_0x14013CF9
+	_PCF_SetHorseStayCommandDisabled = 439, // PCF_0x8519377E
+	_PCF_SetHorseFollowCommandDisabled = 440, // PCF_0xDBD31C9C
 	PCF_0xB61CE793 = 441,
 	_PCF_DisableHorseFleeILO = 442, // PCF_0x78525B66
 	PCF_0x9F42C50C = 443,
