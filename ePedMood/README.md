@@ -2,6 +2,7 @@
 | Name                        | Hash               |
 |-----------------------------|--------------------|
 | PLAYER::\_SET\_PLAYER\_MOOD | 0x39BED552DB46FFA9 |
+| PLAYER::\_GET\_PLAYER\_MOOD | 0x054473164C012699 |
 ## Enum
 ```cpp
 enum ePedMood
