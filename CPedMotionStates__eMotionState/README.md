@@ -5,7 +5,7 @@
 | TASK::TASK\_FORCE\_MOTION\_STATE | 0x4F056E1AFFEF17AB |
 ## Enum
 ```cpp
-enum _0x92A659FE
+enum CPedMotionStates__eMotionState
 {
 	MotionState_None = 4000413475,
 	MotionState_Idle = 2423432979,
@@ -85,8 +85,8 @@ enum _0x92A659FE
 	MotionState_Jetpack = 1398696542,
 	MotionState_Flying = 2994988260,
 	MotionState_Carriable = 3744976664,
-	_0x930FDD2D = 2882129524,
-	_0xE5AC0F31 = 3914821169,
+	MotionState_0x930FDD2D = 2882129524,
+	MotionState_0xE5AC0F31 = 3914821169,
 	MotionState_HitReact = 1786078862,
 	MotionState_Strafing = 25465920,
 	MotionState_Grappling = 1926482157,
