@@ -68,7 +68,7 @@ enum _0x62A8CB86
 	ReactedToStaring = 59,
 	_0x023A2998 = 60,
 	_0x85779BE5 = 61,
-	_0x22E1DC60 = 62,
+	InsultedByPlayerSecond = 62,
 	InsultedByPlayerThird = 63,
 	DefusedByPlayer = 64,
 	_0x368FE902 = 65,

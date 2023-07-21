@@ -28,7 +28,7 @@ enum eIkControlFlags
 	AIK_0x5465E64A = (1 << 18),
 	AIK_DISABLE_LEG_POSTURE_IK = (1 << 19),
 	AIK_0x32939A0E = (1 << 20),
-	AIK_0xFADADF24 = (1 << 21),
+	AIK_BLOCK_NON_ANIMSCENE_LOOKS = (1 << 21),
 	AIK_0x3CC5DD38 = (1 << 22),
 	AIK_0xB819088C = (1 << 23),
 	AIK_0xA82D04F8 = (1 << 24),

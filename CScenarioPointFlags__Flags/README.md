@@ -45,7 +45,7 @@ enum CScenarioPointFlags__Flags
 	StationaryReactions = 35,
 	CanBeUsedByAmbientPedsToGetOnTrain = 36,
 	TerritorialScenario = 37,
-	_0x5B33F7CB = 38,
+	UseHeadOrientationForPerception = 38,
 	UseLoSChecks = 39,
 	UseSearchlight = 40,
 	UseVehicleFrontForArrival = 41,
