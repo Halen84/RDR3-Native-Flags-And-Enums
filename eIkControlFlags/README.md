@@ -31,7 +31,7 @@ enum eIkControlFlags
 	AIK_BLOCK_NON_ANIMSCENE_LOOKS = (1 << 21),
 	AIK_0x3CC5DD38 = (1 << 22),
 	AIK_0xB819088C = (1 << 23),
-	AIK_0xA82D04F8 = (1 << 24),
+	AIK_DISABLE_CONTOUR_IK = (1 << 24),
 	AIK_0xF9E28A5F = (1 << 25),
 	AIK_0x983AE6C1 = (1 << 26),
 	AIK_0x5B5D2BEF = (1 << 27),

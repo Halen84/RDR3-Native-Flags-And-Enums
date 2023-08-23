@@ -36,7 +36,7 @@ enum CScenarioPointFlags__Flags
 	NoVehicleSpawnMaxDistance = 26,
 	OnlySpawnInSameInterior = 27,
 	OpenDoor = 28,
-	_0x7442FF22 = 29,
+	PavementNode = 29,
 	PreciseUseTime = 30,
 	ResetNoCollisionOnCleanUp = 31,
 	SetPedDrunk = 32,
