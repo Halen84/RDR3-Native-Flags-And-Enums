@@ -22,7 +22,7 @@ enum eCombatAttributeFloats
 	AttackWindowDistanceForCover = 11,
 	TimeToInvalidateInjuredTarget = 12,
 	MinimumDistanceToTarget = 13,
-	BulletImpactDetectionRange = 14
+	BulletImpactDetectionRange = 14,
 	BulletImpactDetectionRangeMounted = 15,
 	AimTurnThreshold = 16,
 	OptimalCoverDistance = 17,
