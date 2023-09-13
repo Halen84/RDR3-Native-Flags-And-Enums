@@ -299,7 +299,7 @@ enum ePedScriptResetFlags
 	PRF_0x5D7C8A46 = 289,
 	PRF_0x072222B1 = 290,
 	PRF_0xDF879274 = 291,
-	PRF_0x2EF07E3C = 292,
+	PRF_BlockFidgets = 292,
 	PRF_0x89A7E739 = 293,
 	PRF_DisableReticleSway = 294,
 	PRF_DetachLasso = 295,
