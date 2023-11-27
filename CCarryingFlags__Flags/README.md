@@ -23,7 +23,7 @@ enum CCarryingFlags__Flags
 	CanBeTargetedWhenCarriableOrTransitioningToCarriable = 13,
 	CanBePlacedOnMount = 14,
 	_0x65B590BA = 15,
-	_0xD737735F = 16,
+	AllowFallbackActions = 16,
 	CanBeCarriedWhenDeadIfAmbient = 17,
 	_0xA297B179 = 18,
 	DisablePromptLOSChecks = 19,
@@ -42,11 +42,10 @@ enum CCarryingFlags__Flags
 	_0x0995A131 = 32,
 	_0x3067588E = 33,
 	DisableCarriableInteractionsOnThisMount = 34,
-	_0x86805433 = 35,
+	ForceFallbackActions = 35,
 	_0xE492F85C = 36,
 	ForceHidePromptGroup = 37,
 	_0xAAB56B7E = 38,
 	_0x44731D1E = 39,
 };
-
 ```

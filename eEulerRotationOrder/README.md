@@ -22,11 +22,11 @@
 ```cpp
 enum eEulerRotationOrder
 {
-	_0x438FA03D = 0, // XYZ
-	_0x475DA721 = 1, // XZY
-	_0x4927C4E3 = 2, // YXZ
-	_0xB7EC1BBA = 3, // YZX
-	_0xD5F5CBD0 = 4, // ZXY
-	_0x1F3DDAD7 = 5, // ZYX
+	CAM_EULER_XYZ = 0,
+	CAM_EULER_XZY = 1,
+	CAM_EULER_YXZ = 2,
+	CAM_EULER_YZX = 3,
+	CAM_EULER_ZXY = 4,
+	CAM_EULER_ZYX = 5,
 };
 ```
