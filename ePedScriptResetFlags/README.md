@@ -164,8 +164,8 @@ enum ePedScriptResetFlags
 	PRF_0x8A63AAF1 = 154,
 	PRF_IsEnteringCover = 155,
 	PRF_IsExitingCover = 156,
-	_PRF_IsRagdollWithShortarmEquipped = 157, // PRF_0x6FBEDE26
-	_PRF_IsEnteringRagdollTask = 158, // PRF_0x48BEEBC8
+	PRF_NoTimeDelayBeforeShot = 157,
+	PRF_ForceScriptControlledRagdoll = 158,
 	PRF_0x43321A82 = 159,
 	PRF_0xD84B4E22 = 160,
 	PRF_0x90A010C0 = 161,
@@ -176,7 +176,7 @@ enum ePedScriptResetFlags
 	PRF_ForceBackAgainstWallCover = 166,
 	PRF_0x750EB714 = 167,
 	PRF_DisablePlayerClimbing = 168,
-	PRF_0xB5E19024 = 169,
+	PRF_NeverDieFromCapsuleRagdollSettings = 169,
 	PRF_0x2F028E2F = 170,
 	PRF_0xF9A54A08 = 171,
 	PRF_0x72788B4D = 172,
