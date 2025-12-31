@@ -5,7 +5,7 @@
 | PED::SET\_PED\_LASSO\_HOGTIE\_FLAG   | 0xAE6004120C18DF97 |
 ## Enum
 ```cpp
-enum _0xF19CDAEF
+enum CLassoHogtieFlags__Flags
 {
 	CanBeLassoed = 0,
 	CanBeLassoedWhenDead = 1,

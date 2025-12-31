@@ -22,7 +22,7 @@ enum CLootingFlags__Flags
 	_0x5324432B = 12,
 	ForceGesticularLootFallbacks = 13,
 	_0x3393B91D = 14,
-	_0x6D67721B = 15,
+	IgnoreStatusConditions = 15,
 	_0x18A8E11E = 16,
 	_0x3BD5AD45 = 17,
 	_0x4B314489 = 18,

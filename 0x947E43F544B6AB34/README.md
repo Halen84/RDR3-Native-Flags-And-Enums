@@ -1,7 +1,7 @@
 ## Natives that use this enum
-| Name                      | Hash               |
-|---------------------------|--------------------|
-| PED::\_0x947E43F544B6AB34 | 0x947E43F544B6AB34 |
+| Name                                      | Hash               |
+|-------------------------------------------|--------------------|
+| PED::\_GET_PED_HAS_INTERACTED_WITH_PLAYER | 0x947E43F544B6AB34 |
 ## Enum
 ```cpp
 enum _0x62A8CB86
@@ -51,7 +51,7 @@ enum _0x62A8CB86
 	WarnedPlayerToLeave = 42,
 	_0xC0F21F67 = 43,
 	_0x6D9F4CA4 = 44,
-	_0x4F0FAB05 = 45,
+	PerformedHostileAction = 45,
 	Intimidated = 46,
 	KnockedOffMount = 47,
 	DisputeEnded = 48,
@@ -71,7 +71,7 @@ enum _0x62A8CB86
 	InsultedByPlayerSecond = 62,
 	InsultedByPlayerThird = 63,
 	DefusedByPlayer = 64,
-	_0x368FE902 = 65,
+	StartedCombatWithPlayer = 65,
 	StartedDuelWithPlayer = 66,
 	StartedWaryResponseWithPlayer = 67,
 	ReactedToBlocked = 68,

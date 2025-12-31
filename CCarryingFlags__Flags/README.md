@@ -32,7 +32,7 @@ enum CCarryingFlags__Flags
 	IsAutoPickup = 22,
 	ForceAllowWarpToSafeGroundLocation = 23,
 	_0xE1BE8944 = 24,
-	_0x66555722 = 25,
+	IgnoreScorchedConditions = 25,
 	_0x613B2BA8 = 26, // CARRYING_FLAG_PICKUPS_IGNORE_HEIGHT_RESTRICTIONS
 	CleanUpWhenNotCarried = 27,
 	_0xBDBF542C = 28,
